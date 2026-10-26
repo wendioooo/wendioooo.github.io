@@ -1,0 +1,25 @@
+{
+  "mas": {
+    "source": "https://arxiv.org/html/2607.16133v1",
+    "figure": 2,
+    "asset": "figures/main_figure_4.png"
+  },
+  "spingtp": {
+    "source": "https://arxiv.org/html/2607.01408v2",
+    "figure": 1
+  },
+  "autopoly": {
+    "source": "https://arxiv.org/pdf/2307.07956",
+    "page": 6,
+    "algorithm": 1
+  },
+  "mds": {
+    "source": "https://arxiv.org/html/2410.03955v2",
+    "figure": 4,
+    "panel": "right",
+    "asset": "dressing_room_2k_test_w10000.svg"
+  },
+  "autonomous": {
+    "source": "https://mstar-liang.github.io/assets/imgs/AgentOrchestration.png"
+  }
+}
